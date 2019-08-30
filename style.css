@@ -1,0 +1,81 @@
+html {
+    position: relative;
+}
+
+body {
+    margin-bottom: 100px;
+}
+
+#content1 {
+    background-image: url(img/header.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    height: 650px;
+}
+
+#content1 a {
+    font-size: 25px;
+}
+.jumbotron .display-10 {
+    color: white;
+    font-weight: 700;
+}
+
+.about {
+    min-height: 150px;
+}
+.about hr {
+    width: 400x;
+    border-top: 3px solid #666123
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background-color: #333;
+    color: whitesmoke;
+    padding-top: 10px;
+}
+
+footer p {
+    color: whitesmoke;
+    font-size: 0.9em;
+}
+
+#persyaratan {
+    height: auto;
+    padding-bottom: 40px;
+}
+
+#persyaratan hr {
+    width: 300px;
+    border-top: 3px solid #666666;
+}
+
+#mep {
+    height: auto;
+    background-image: url(img/header.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 25px;
+    padding-bottom: 100px;
+}
+
+#mep h1 {
+    color: white;
+}
+#mep h2 {
+    color: white;
+}
+
+#mep a {
+    color: white;
+    font-size: 25px;
+}
+
+#meplogo {
+    padding: 20px 20px; 
+}
